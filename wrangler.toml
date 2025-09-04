@@ -9,5 +9,5 @@ database_id = "4b5dd2bc-6c8f-4311-b48d-dc7f783adc6b"
 
 [vars]
 G_CLIENT_ID = "Iv23lizRteMASds1zTqq"
-INIT_TABLE = "true"
+INIT_TABLE = "false"
 ENABLE_CACHE = "true"
